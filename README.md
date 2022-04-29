@@ -1,8 +1,6 @@
 # jupyter_webapp_demo
-Code for the article "How to Create an Interactive Web Application using Jupyter Notebook".
+V1: I adapted the code for the granny appointment application from the original article: "How to Create an Interactive Web Application using Jupyter Notebook".
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nghweigeok/jupyter_webapp_demo/HEAD?urlpath=%2Fvoila%2Frender%2FDemo.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/keduba/myjupytervoila_webapp/HEAD?urlpath=%2Fvoila%2Frender%2Fgranny_appointment.ipynb)
 
-Try the demo here: https://mybinder.org/v2/gh/nghweigeok/jupyter_webapp_demo/HEAD?urlpath=%2Fvoila%2Frender%2FDemo.ipynb
-
-Complete blog article and video tutorial: https://blog.finxter.com/how-to-create-an-interactive-web-application-using-jupyter-notebook/
+V2: I am going to add code to push the message to a phone or email address.
